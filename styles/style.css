@@ -115,14 +115,14 @@ body {
   .card,
   .card-page {
     width: 230px;
-    height: 329px;
+    height: 429px;
   }
 }
 @media (max-width: 479px) {
   .card,
   .card-page {
     width: 150px;
-    height: 214px;
+    height: 314px;
   }
 }
 
